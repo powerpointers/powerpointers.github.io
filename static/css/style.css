@@ -65,7 +65,7 @@
 }
 
 .picture {
-  display: block;
+  display: inline-block;
   margin: 3cm auto;
 }
 
