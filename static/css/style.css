@@ -66,7 +66,8 @@
 
 .picture {
   display: inline-block;
-  margin: 3cm auto;
+  margin: 0 auto;
+  margin-top: 2cm;
 }
 
 .picture p.metal {
@@ -85,4 +86,17 @@
     gold          47%, 
     goldenrod 53%,
     hsl(0,0%,78%)    100%);
+}
+
+/* Funcionario / Vacilao do mes */
+
+.employee-month {
+  width: 100%;
+  margin: 0 auto;
+  display: grid;
+  justify-content: center;
+  justify-items: inherit;
+  grid-column-gap: 2em;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 0.9fr));
+  grid-auto-rows: 1fr;
 }
