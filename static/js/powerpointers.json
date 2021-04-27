@@ -2,35 +2,35 @@
     {
         "date": "15/02",
         "link": "https://drive.google.com/file/d/1D6SX5mlcyuqrfSCNLUiyWIpYDd_CLcqE/view?usp=sharing",
-        "slides": "./powerpoints/pedroca_15_02.pdf",
+        "slides": "./static/powerpoints/pedroca_15_02.pdf",
         "author": "Pedroca",
         "title": "🥋 Judô"
     },
     {
         "date": "22/02",
         "link": "https://drive.google.com/file/d/1etdMo3OpTP8xQZUuWYWdCXH1HogYgGwS/view?usp=sharing",
-        "slides": "./powerpoints/iago_22_02.pdf",
+        "slides": "./static/powerpoints/iago_22_02.pdf",
         "author": "Iagão",
         "title": "📡 Telecomunicações"
     },
     {
         "date": "01/03",
         "link": "https://drive.google.com/file/d/1812gIfgA1gBVCs9W-YtGNeK6CeqncWtT/view?usp=sharing",
-        "slides": "./powerpoints/brunin_01_03.pdf",
+        "slides": "./static/powerpoints/brunin_01_03.pdf",
         "author": "Brunold",
         "title": "♌ Astrologia"
     },
     {
         "date": "08/03",
         "link": "https://drive.google.com/file/d/1oAMYWf3VfR9RxVrD5mX-hEtHutSLuVnf/view?usp=sharing",
-        "slides": "./powerpoints/caverinha_08_03.pdf",
+        "slides": "./static/powerpoints/caverinha_08_03.pdf",
         "author": "Caveira",
         "title": "🧻 Origami"
     },
     {
         "date": "15/03",
         "link": "https://drive.google.com/file/d/1nk26lpdkHX2eqWXLB97smJMfMdoDV8hX/view?usp=sharing",
-        "slides": "./powerpoints/predo_15_03.pdf",
+        "slides": "./static/powerpoints/predo_15_03.pdf",
         "author": "Pedroca",
         "title": "🦎 I.A. no Cinema"
     },
@@ -44,35 +44,35 @@
     {
         "date": "29/03",
         "link": "https://drive.google.com/file/d/11kHVq4OYB-5ShbPLZUeecRWlEjpYCzAl/view?usp=sharing",
-        "slides": "./powerpoints/iagão_29-03.pdf",
+        "slides": "./static/powerpoints/iagão_29-03.pdf",
         "author": "Iagão",
         "title": "👑 Otimização Imperial"
     },
     {
         "date": "05/04",
         "link": "https://drive.google.com/file/d/1YlnuBeuu2nR-oRw9uEn_kSquP4X-azHJ/view?usp=sharing",
-        "slides": "./powerpoints/preodk_05-04.pdf",
+        "slides": "./static/powerpoints/preodk_05-04.pdf",
         "author": "Pedroca",
         "title": "🔺 Shaders"
     },
     {
         "date": "12/04",
         "link": "https://drive.google.com/file/d/1zPYGzjoGwsWMDJMjdSK4KpcxdN6sqx64/view?usp=sharing",
-        "slides": "./powerpoints/pessoa_12-04.pdf",
+        "slides": "./static/powerpoints/pessoa_12-04.pdf",
         "author": "Pessoa",
         "title": "🎲 Banco de Dados"
     },
     {
         "date": "19/04",
         "link": "https://drive.google.com/file/d/1fhpX58jEN4Pkbp_f9yxAxRvy6aQbM0VQ/view?usp=sharing",
-        "slides": "./powerpoints/turano_19_04.pdf",
+        "slides": "./static/powerpoints/turano_19_04.pdf",
         "author": "Turano",
         "title": "🧬 Biodiversidade"
     },
     {
         "date": "26/04",
         "link": "https://drive.google.com/file/d/1q6VfBkOuRYgEre723sNKRGqF-kRvrK56/view?usp=sharing",
-        "slides": "./powerpoints/brunold_26_04.pdf",
+        "slides": "./static/powerpoints/brunold_26_04.pdf",
         "author": "Brunold",
         "title": "💃 Crop Rotacional"
     }
