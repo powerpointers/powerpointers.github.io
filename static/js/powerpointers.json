@@ -2,35 +2,35 @@
     {
         "date": "15/02",
         "link": "https://drive.google.com/file/d/1D6SX5mlcyuqrfSCNLUiyWIpYDd_CLcqE/view?usp=sharing",
-        "slides": "./static/pedroca_15_02.pdf",
+        "slides": "../powerpoints/pedroca_15_02.pdf",
         "author": "Pedroca",
         "title": "🥋 Judô"
     },
     {
         "date": "22/02",
         "link": "https://drive.google.com/file/d/1etdMo3OpTP8xQZUuWYWdCXH1HogYgGwS/view?usp=sharing",
-        "slides": "./static/iago_22_02.pdf",
+        "slides": "../powerpoints/iago_22_02.pdf",
         "author": "Iagão",
         "title": "📡 Telecomunicações"
     },
     {
         "date": "01/03",
         "link": "https://drive.google.com/file/d/1812gIfgA1gBVCs9W-YtGNeK6CeqncWtT/view?usp=sharing",
-        "slides": "./static/brunin_01_03.pdf",
+        "slides": "../powerpoints/brunin_01_03.pdf",
         "author": "Brunold",
         "title": "♌ Astrologia"
     },
     {
         "date": "08/03",
         "link": "https://drive.google.com/file/d/1oAMYWf3VfR9RxVrD5mX-hEtHutSLuVnf/view?usp=sharing",
-        "slides": "./static/caverinha_08_03.pdf",
+        "slides": "../powerpoints/caverinha_08_03.pdf",
         "author": "Caveira",
         "title": "🧻 Origami"
     },
     {
         "date": "15/03",
         "link": "https://drive.google.com/file/d/1nk26lpdkHX2eqWXLB97smJMfMdoDV8hX/view?usp=sharing",
-        "slides": "./static/predo_15_03.pdf",
+        "slides": "../powerpoints/predo_15_03.pdf",
         "author": "Pedroca",
         "title": "🦎 I.A. no Cinema"
     },
@@ -44,21 +44,21 @@
     {
         "date": "29/03",
         "link": "https://drive.google.com/file/d/11kHVq4OYB-5ShbPLZUeecRWlEjpYCzAl/view?usp=sharing",
-        "slides": "./static/iagão_29-03.pdf",
+        "slides": "../powerpoints/iagão_29-03.pdf",
         "author": "Iagão",
         "title": "👑 Otimização Imperial"
     },
     {
         "date": "05/04",
         "link": "https://drive.google.com/file/d/1YlnuBeuu2nR-oRw9uEn_kSquP4X-azHJ/view?usp=sharing",
-        "slides": "./static/preodk_05-04.pdf",
+        "slides": "../powerpoints/preodk_05-04.pdf",
         "author": "Pedroca",
         "title": "🔺 Shaders"
     },
     {
         "date": "12/04",
         "link": "https://drive.google.com/file/d/1zPYGzjoGwsWMDJMjdSK4KpcxdN6sqx64/view?usp=sharing",
-        "slides": "./static/pessoa_12-04.pdf",
+        "slides": "../powerpoints/pessoa_12-04.pdf",
         "author": "Pessoa",
         "title": "🎲 Banco de Dados"
     },
