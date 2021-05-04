@@ -75,5 +75,12 @@
         "slides": "./static/powerpoints/brunold_26_04.pdf",
         "author": "Brunold",
         "title": "💃 Crop Rotacional"
+    },
+    {
+        "date": "03/05",
+        "link": "#",
+        "slides": "./static/powerpoints/iaguinho_03_05.pdf",
+        "author": "Iagão",
+        "title": "🍁 Filosofia"
     }
 ]
