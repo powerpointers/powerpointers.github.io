@@ -78,9 +78,16 @@
     },
     {
         "date": "03/05",
-        "link": "#",
+        "link": "https://drive.google.com/file/d/1DCkpv-bmMw1A60p7sqCTiLh8khHGo4uO/view",
         "slides": "./static/powerpoints/iaguinho_03_05.pdf",
         "author": "Iagão",
         "title": "🍁 Filosofia"
+    },
+    {
+        "date": "10/05",
+        "link": "https://drive.google.com/file/d/1WY-26i0a6qO4RwUgc7-SI6205zYN_h8a/view?usp=sharing",
+        "slides": "./static/powerpoints/pessoa_10_05.pdf",
+        "author": "Pessoa",
+        "title": "🙀 Pirueta"
     }
 ]
