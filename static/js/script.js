@@ -34,7 +34,7 @@ function displayScores(scores) {
     })
 
     for (let i=0; i<list.length; i++) {
-        list[i] = `<li><code>${list[i][0]}</code> ${list[i][1]}</li>`
+        list[i] = `<li>${list[i][1]} <code>${list[i][0]}</code></li>`
     }
 
     return `
