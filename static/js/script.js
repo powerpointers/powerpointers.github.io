@@ -38,9 +38,16 @@ function displayScores(scores) {
     }
 
     return `
+    <section class="style-seventeen">
+        <div class="wordart">
+            <h1 class="preview" data-content="Placar">Placar</h1>
+        </div>
+    </section>
+
     <ol>
         ${list.join('\n')}
     </ol>
+
     `
 }
 
@@ -89,6 +96,7 @@ function displayAll(array) {
         ${list.join('\n')}
         ${NextLine(array)}
     </ul>
+
     ${displayScores(scores)}`
 }
 

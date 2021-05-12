@@ -3,6 +3,10 @@
 
 /* Metal ------------------------- */
 
+body {
+  margin-left: 2cm;
+}
+
 .metal {
   position: relative;
   margin: 40px auto;
