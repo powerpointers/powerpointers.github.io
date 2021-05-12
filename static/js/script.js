@@ -17,8 +17,36 @@ function loadJSON(path, success, error) {
     xhr.send();
 }
 
-function ListLines(array) {
-    let html = [];
+function displayScores(scores) {
+    let list = []
+    for (let key in scores) {
+        let score = scores[key];
+        list.push([score, key])
+    }
+
+    list.sort((a, b) => {
+        if (a[0] === b[0]) {
+            return 0;
+        }
+        else {
+            return (a[0] > b[0]) ? -1 : 1;
+        }
+    })
+
+    for (let i=0; i<list.length; i++) {
+        list[i] = `<li><code>${list[i][0]}</code> ${list[i][1]}</li>`
+    }
+
+    return `
+    <ol>
+        ${list.join('\n')}
+    </ol>
+    `
+}
+
+function displayAll(array) {
+    let scores = {};
+    let list = [];
     for (let i = 0; i < array.length; i++) {
         let data = array[i];
         let link = "#";
@@ -34,6 +62,11 @@ function ListLines(array) {
         }
         if (data.author !== undefined) {
             author = data.author;
+            if (author in scores) {
+                scores[author] += 1;
+            } else {
+                scores[author] = 1;
+            }
         }
         if (data.title !== undefined) {
             title = data.title;
@@ -41,7 +74,7 @@ function ListLines(array) {
         if (data.date !== undefined) {
             date = data.date;
         }
-        html.push(`<li> \
+        list.push(`<li> \
             ${date} \
             [<a href="${link}">link</a>] \
             [<a href="${slides}">slides</a>] \
@@ -50,7 +83,13 @@ function ListLines(array) {
             </li>
             `)
     }
-    return html.join('\n')
+
+    return `\
+    <ul>
+        ${list.join('\n')}
+        ${NextLine(array)}
+    </ul>
+    ${displayScores(scores)}`
 }
 
 function zfill(s, n = 2) {
@@ -77,12 +116,7 @@ function NextLine(array) {
 
 function ListPowers(path) {
     loadJSON(path, function (array) {
-        document.getElementById('powerpoints').innerHTML = `
-            <ul>
-                ${ListLines(array)}
-                ${NextLine(array)}
-            </ul>
-        `;
+        document.getElementById('powerpoints').innerHTML = displayAll(array)
     }, function (error) {
         console.log(error)
     });
