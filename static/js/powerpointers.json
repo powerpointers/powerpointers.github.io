@@ -89,5 +89,12 @@
         "slides": "./static/powerpoints/pessoa_10_05.pptx",
         "author": "Pessoa",
         "title": "🙀 Pirueta"
+    },
+    {
+        "date": "17/05",
+        "link": "https://drive.google.com/file/d/1BkSPETCBD4ysN9sDJFkEwFYZpzzhjBaT/view?usp=sharing",
+        "slides": "./static/powerpoints/pedrok_17_05.pdf",
+        "author": "Pedroca",
+        "title": "🚢 O Atropelamento de Haylor"
     }
 ]
