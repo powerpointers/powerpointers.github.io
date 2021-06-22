@@ -124,5 +124,12 @@
         "slides": "./static/powerpoints/bruneco_14_06.pdf",
         "author": "Brunold",
         "title": "🦅 Por que avestruzes não voam"
+    },
+    {
+        "date": "21/06",
+        "link": "https://drive.google.com/file/d/1XkvBS4fCYkW_zfh10WU8OohxjsLS3XRR/view?usp=sharing",
+        "slides": "./static/powerpoints/pedro_21_06",
+        "author": "Pedroc",
+        "title": "🌱 Planta &#47; 💎 Pedra"
     }
 ]
