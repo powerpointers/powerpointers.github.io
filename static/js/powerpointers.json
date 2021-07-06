@@ -138,5 +138,12 @@
         "slides": "./static/powerpoints/ivani_28_06.pdf",
         "author": "Ivani",
         "title": "🍊 Computadores Químicos"
+    },
+    {
+        "date": "05/07",
+        "link": "https://drive.google.com/file/d/1HrV_ZtQaKndZzR5UqJEp8yKcWmvdk9JI/view?usp=drivesdk",
+        "slides": "./static/powerpoints/pessoa_05_07.pdf",
+        "author": "Pessoa",
+        "title": "😸☥ Múmias de Gatinhos"
     }
 ]
