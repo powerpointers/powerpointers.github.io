@@ -152,5 +152,12 @@
         "slides": "./static/powerpoints/Iago_12_07.pdf",
         "author": "Iagão",
         "title": "🏎️ Carros do Futuro"
+    },
+    {
+        "date": "19/07",
+        "link": "javascript:alert('Cade o link predrok????')",
+        "slides": "./static/powerpoints/bubu_19_07.pps",
+        "author": "Brunold",
+        "title": "⁉️ Pontuação"
     }
 ]
