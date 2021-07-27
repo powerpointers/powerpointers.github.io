@@ -162,7 +162,7 @@
     },
     {
         "date": "26/07",
-        "link": "",
+        "link": "javascript:alert('Predok kd os slides/???')",
         "slides": "./static/powerpoints/pedru_26_07.pdf",
         "author": "Pedroca",
         "title": "🧝‍♀️ Cavernas &#38; Dragões"
