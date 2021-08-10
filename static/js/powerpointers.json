@@ -173,5 +173,12 @@
         "slides": "./static/powerpoints/pessoa_02_08.pdf",
         "author": "Pessoa",
         "title": "⚙️ Os Lábios das Focas Dentuças"
+    },
+    {
+        "date": "09/08",
+        "link": "https://drive.google.com/file/d/1ZLSeVyGHrvCupoiUyHULQ1Kp6iKyyXr3/view?usp=sharing",
+        "slides": "./static/powerpoints/iago_09_08.pdf",
+        "author": "Iagão",
+        "title": "□ Emoji"
     }
 ]
