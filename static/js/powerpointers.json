@@ -180,5 +180,12 @@
         "slides": "./static/powerpoints/iago_09_08.pdf",
         "author": "Iagão",
         "title": "□ Emoji"
+    },
+    {
+        "date": "16/08",
+        "link": "javascript:alert('Brunin kd o video????')",
+        "slides": "./static/powerpoints/eutivi_16_08.pdf",
+        "author": "Vital",
+        "title": "🍥 Narutin"
     }
 ]
