@@ -1,5 +1,3 @@
-const MEET_LINK = "https://meet.google.com/gnn-fnkr-agn";
-
 function loadJSON(path, success, error) {
     var xhr = new XMLHttpRequest();
     xhr.onreadystatechange = function () {
@@ -119,7 +117,7 @@ function NextLine(array) {
             return ""
         }
     }
-    return `<li> ${date} [<a href="${MEET_LINK}">meet</a>] <span>?</span> ?</li>`
+    return `<li> ${date} [<a href="./meet">meet</a>] <span>?</span> ?</li>`
 }
 
 function ListPowers(path) {
