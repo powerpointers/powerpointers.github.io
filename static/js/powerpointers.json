@@ -201,5 +201,12 @@
         "slides": "./static/powerpoints/perpdorpeorpd_06_09.pdf",
         "author": "Pedroca",
         "title": "🧅 Anonimato"
+    },
+    {
+        "date": "13/09",
+        "link": "javascript:alert('kd o link????')",
+        "slides": "./static/powerpoints/tiaguin_13_09.pdf",
+        "author": "Vital",
+        "title": "🍔 Negatividade na Mídia"
     }
 ]
