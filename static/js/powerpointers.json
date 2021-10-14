@@ -222,5 +222,12 @@
         "slides": "./static/powerpoints/iagolispptx_27_09.pptx",
         "author": "Iagão",
         "title": "🐼 Como Nascem os Pandas"
+    },
+    {
+        "date": "11/10",
+        "link": "https://drive.google.com/file/d/11a8uKPCGrdg356l993IA8pSEejat0vrX/view?usp=sharing",
+        "slides": "./static/powerpoints/pedroedrodroroo_11_10.pdf",
+        "author": "Pedroca",
+        "title": "🦴 Tibia"
     }
 ]
