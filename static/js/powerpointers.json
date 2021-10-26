@@ -236,5 +236,12 @@
         "slides": "./static/powerpoints/iagao_18_10.ppt",
         "author": "Iagão",
         "title": "🕯️ Iluminismo"
+    },
+    {
+        "date": "25/10",
+        "link": "",
+        "slides": "./static/powerpoints/mariachiquinha_25_10.pdf",
+        "author": "Pedroca",
+        "title": "🏫 Educação Infantil"
     }
 ]
