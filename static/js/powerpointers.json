@@ -250,5 +250,12 @@
         "slides": "./static/powerpoints/brunold_08_11_2021.pdf",
         "author": "Brunold",
         "title": "🇨🇭 Nova Friburgo"
+    },
+    {
+        "date": "06/12",
+        "link": "",
+        "slides": "./static/powerpoints/tiaguin_06_11_2021.pdf",
+        "author": "Vital",
+        "title": "🎚️ Powerpoint"
     }
 ]
