@@ -58,7 +58,7 @@
     {
         "date": "12/04",
         "link": "https://drive.google.com/file/d/1zPYGzjoGwsWMDJMjdSK4KpcxdN6sqx64/view?usp=sharing",
-        "slides": "./static/powerpoints/pessoa_12-04.pdf",
+        "slides": "./static/powerpoints/pessoa_12_04.pdf",
         "author": "Pessoa",
         "title": "🎲 Banco de Dados"
     },
@@ -212,7 +212,7 @@
     {
         "date": "20/09",
         "link": "https://drive.google.com/file/d/1HSF8SKNJqajJzPSR9vvwHXmxLPdXIWVS/view?usp=sharing",
-        "slides": "./static/powerpoints/brunozinhozinhozão.pptx",
+        "slides": "./static/powerpoints/brunozinhozinhozão_20_09.pptx",
         "author": "Brunold",
         "title": "👹 Satanismo"
     },
@@ -254,7 +254,7 @@
     {
         "date": "06/12",
         "link": "",
-        "slides": "./static/powerpoints/tiaguin_06_11_2021.pdf",
+        "slides": "./static/powerpoints/tiaguin_06_12_2021.pdf",
         "author": "Vital",
         "title": "🎚️ Powerpoint"
     }
