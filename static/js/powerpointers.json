@@ -264,5 +264,12 @@
         "slides": "./static/powerpoints/iago_17_01_2022.pptx",
         "author": "Iagão",
         "title": "₿ NFT"
+    },
+    {
+        "date": "24/01",
+        "link": "",
+        "slides": "./static/powerpoints/pedrops_24_01_2022.pdf",
+        "author": "Pedroca",
+        "title": "🧟‍♀️ WoW"
     }
 ]
