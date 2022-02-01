@@ -271,5 +271,12 @@
         "slides": "./static/powerpoints/pedrops_24_01_2022.pdf",
         "author": "Pedroca",
         "title": "🧟‍♀️ WoW"
+    },
+    {
+        "date": "31/01",
+        "link": "",
+        "slides": "./static/powerpoints/brunold_31_01_2022.pdf",
+        "author": "Brunold",
+        "title": "🏳️‍🌈 Gaylor Swift"
     }
 ]
