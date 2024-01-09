@@ -299,5 +299,12 @@
         "slides": "./static/powerpoints/iago.pdf.pdf_06_04_2023.pdf",
         "author": "Iagão",
         "title": "🏛️ Amor em Roma"
+    },
+    {
+        "date": "08/01",
+        "link": "",
+        "slides": "./static/powerpoints/tutututututurano_08_01_2024.pdf",
+        "author": "Turano",
+        "title": "O Golem de Praga"
     }
 ]
